@@ -32,3 +32,7 @@ Below is an overall visual of Earthquakes ran on September 27, 2023.
 
 Below is a zoomed in visual on map to display MAGNITUDE, LOCATION and DEPTH.
 ![Alt text](Leaflet-Part-1/Images_for_ReadMe/Zoomed_Data.png)
+
+
+## Reference:
+Dataset created by the United States Geological: https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
